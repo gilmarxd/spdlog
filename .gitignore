@@ -68,6 +68,10 @@ install_manifest.txt
 /tests/tests
 /tests/logs/*
 
+#premake
+bin/*
+bin-int/*
+
 # idea
 .idea/
 cmake-build-*/
